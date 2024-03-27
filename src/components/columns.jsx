@@ -9,7 +9,7 @@ export const COLUMNS = [
     },
     {
         accessor: "SequenceNumber",
-        Header: "Sequence #",
+        Header: "Sequence",
     },
     {
         accessor: "Stops",

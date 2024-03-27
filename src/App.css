@@ -1,0 +1,21 @@
+﻿#page-content-wrapper {
+    padding: 20px; /* Adjust as necessary for spacing */
+}
+
+/* If additional styling is needed for alignment or spacing of the buttons */
+.table-controls {
+    display: flex;
+    justify-content: start;
+    gap: 10px; /* Spacing between controls */
+    margin-bottom: 1rem; /* Space before the table */
+}
+
+/* For the DatePickerModal to overlay correctly if needed */
+.date-picker-modal {
+    position: 'absolute';
+    z-index: 2;
+    background-color: 'white';
+    padding: '20px';
+    border: '1px solid black';
+    margin-top: '20px';
+}

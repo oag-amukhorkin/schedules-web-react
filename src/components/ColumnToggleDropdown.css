@@ -1,0 +1,10 @@
+﻿/* ColumnToggleDropdown.css */
+.form-check {
+    display: flex;
+    align-items: center;
+}
+
+.form-check-label {
+    margin-bottom: 0; /* Override default margin-bottom */
+    margin-left: 0.1rem; /* Add margin to the left */
+}
